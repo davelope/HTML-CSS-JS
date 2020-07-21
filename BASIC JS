@@ -1,0 +1,8 @@
+<html>
+<body>
+<h2> Belajar Javascript </h2>
+<script>
+  alert("Belajar Javascript itu mudah.")
+</script>
+</body>
+</html>
