@@ -3,3 +3,20 @@ var nama_variable = datanya
 var x=5;
 var y=10;
 var z=x+y;
+
+##############
+var mobil = "Avanza";
+mobil
+
+#############
+var listMobil = ["Avanza", "Ayla"]
+listMobil
+
+#############
+var dictMobil = {nama : "Ayla", tahun : 1990, harga : 100000000}
+dictMobil
+
+#############
+#accessing 
+dictMobil["nama"]
+
